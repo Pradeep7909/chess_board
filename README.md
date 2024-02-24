@@ -1,16 +1,19 @@
-# chess_game
+# Chess App README
 
-A new Flutter project.
+## Overview
+The Chess App is a simple Flutter application for playing chess using the `chess` Dart package.
 
-## Getting Started
+## Features
+- Play chess against another player.
+- Simple and intuitive interface.
 
-This project is a starting point for a Flutter application.
+## Acknowledgements
+- Flutter
+- chess Dart package
 
-A few resources to get you started if this is your first Flutter project:
+## Contact
+For inquiries or support, contact me.
+ * **Email:** pradeeprathore79093@gmail.com
+ * **LinkedIn:** [Linkedin Link](https://in.linkedin.com/in/pradeep-rathore-5824a6237)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for using the Chess App! ♟️
